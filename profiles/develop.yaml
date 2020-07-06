@@ -1,0 +1,35 @@
+
+consoleFrontend:
+  image:
+    tag: develop
+    pullPolicy: Always
+
+consoleBackendDataLogger:
+  image: 
+    tag: develop
+    pullPolicy: Always
+
+consoleBackendDataManager:
+  image: 
+    tag: develop
+    pullPolicy: Always
+
+consoleFrontend:
+  image:
+    tag: develop
+    pullPolicy: Always
+ 
+dataService:
+  image: 
+    tag: develop
+    pullPolicy: Always
+ 
+deploymentManager:
+  image: 
+    tag: develop
+    pullPolicy: Always
+
+packageRepository:
+  image: 
+    tag: develop
+    pullPolicy: Always
